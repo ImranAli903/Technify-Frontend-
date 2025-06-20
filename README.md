@@ -1,0 +1,2 @@
+# Technify-Frontend-
+frontend only
